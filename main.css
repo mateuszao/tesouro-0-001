@@ -41,7 +41,6 @@ img {
 }
 
 .tesouro-icon h1 {
-  font-family: 'Arial';
   margin-top: 60px;
   text-align: center;
   color: #eff7e1;
@@ -49,16 +48,14 @@ img {
 }
 
 .tesouro-icon p {
-  font-family: 'Arial';
-  margin-top: 60px;
+  margin-top: 45px;
   color: #eff7e1;
   font-size: 1.25em;
 }
 
 .tesouro-icon h4 {
-  font-family: 'Arial';
   margin-top: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   color: #eff7e1;
   font-size: 0.85em;
 }
